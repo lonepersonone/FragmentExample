@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavigationTest</string>
+    <string name="title_home">首页</string>
+    <string name="title_attention">关注</string>
+    <string name="title_vip">VIP会员</string>
+    <string name="title_doki">doki</string>
+    <string name="title_person">个人中心</string>
+    <string name="jingxuan">精选</string>
+    <string name="aikan">爱看</string>
+    <string name="dianshiju">电视剧</string>
+    <string name="dianying">电影</string>
+    <string name="shaoer">少儿</string>
+    <string name="dongman">动漫</string>
+    <string name="zongyi">综艺</string>
+</resources>
