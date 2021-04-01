@@ -1,0 +1,3 @@
+# FragmentExample
+用于演示Android Fragment的相关用法
+Fragment与TabLayout相互嵌套完成AppLayout基本布局
